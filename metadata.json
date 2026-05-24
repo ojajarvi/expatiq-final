@@ -1,0 +1,6 @@
+{
+  "name": "EXPATIQ",
+  "description": "Global residency intelligence for internationally mobile people.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
